@@ -1,4 +1,4 @@
-update=Thu 19 Jan 2017 05:16:15 PM MST
+update=Thu 16 Feb 2017 10:00:33 PM MST
 version=1
 last_client=kicad
 [pcbnew]
@@ -113,3 +113,13 @@ LibName81=Xicor
 LibName82=Zilog
 LibName83=kicad-ESP8266-master/ch340g
 LibName84=kicad-ESP8266-master/LTC4080
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
